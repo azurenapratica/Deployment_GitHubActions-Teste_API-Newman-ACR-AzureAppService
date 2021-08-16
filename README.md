@@ -3,4 +3,4 @@ Workflow do GitHub Actions para build de imagens de uma API REST, testes via cha
 
 Projeto que serviu de base para a elaboração deste workflow:
 
-https://github.com/renatogroffe/ASPNETCore5-REST_API-Postman_CalculoIMC
+https://github.com/azurenapratica/ASPNETCore5-REST_API-Postman_CalculoIMC
